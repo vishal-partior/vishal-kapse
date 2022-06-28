@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on DevSecOps
+- 🔭 I’m currently working on DevSecOps Stuff
 - 🌱 I’m currently learning Security and DevOps tools
 - 👯 I’m looking to collaborate on YouTube
 - 💬 Ask me about Kubernetes
