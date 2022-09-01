@@ -7,4 +7,4 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on YouTube
 - 💬 Ask me about Kubernetes
 - 📫 How to reach me: LinkedIn > https://www.linkedin.com/in/vishalkapse9696/
-- ⚡ Fun fact: I am a mechanical engineer loving software stuff 
+- ⚡ Fun fact: Reach out to know 
